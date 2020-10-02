@@ -1,3 +1,4 @@
+#improve docs
 # Design studio one page template - ARCHIVED
 
 Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
